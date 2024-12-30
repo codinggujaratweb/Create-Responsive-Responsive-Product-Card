@@ -10,7 +10,7 @@
 ### 📸 Follow me on Instagram:  [CodingGujarat](https://instagram.com/codinggujarat/)
 
 ### 💙 Join the channel to see more videos like this. [CodingGujarat](https://www.youtube.com/@CodingGujarat)
-![preview img](/)
+![preview img](/preview.png)
 
 ### ⚠️ Copyright Notice
 This video, including its text, images, and content, is the exclusive property of CodingGujarat. Copying or reusing any part of this content without permission is strictly prohibited. Let's respect creativity and originality!
